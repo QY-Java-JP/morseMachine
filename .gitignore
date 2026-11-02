@@ -1,0 +1,25 @@
+# CLion
+.idea/
+
+# CMake 构建目录
+cmake-build-*/
+build/
+out/
+
+# 编译产物
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# 调试文件
+*.pdb
+*.ilk
+*.dSYM/
+
+# 系统文件
+.DS_Store
+Thumbs.db
